@@ -17,4 +17,8 @@
 
 <img src="http://www.skullbox.net/vpns/pptp.gif" />
 
-- **Site-to-site VPN**: Kết nối các chi nhánh của một công ty ở xa lại với nhau. Sử dụng công nghệ IPSec. 
+- **Site-to-site VPN**: Kết nối các chi nhánh của một công ty ở xa lại với nhau. Sử dụng công nghệ IPSec.
+
+<img src="http://www.skullbox.net/vpns/sitetosite.gif" />
+
+## Còn tiếp
