@@ -2,11 +2,23 @@
 
 ## 1. VPN là gì?
 
-**`VPN`** viết tắt của "**Virtual Private Network**", là một mạng riêng dùng để kết nối các máy tính của các công ty hay tổ chức với nhau thông qua môi trường Internet.
+**`VPN`** viết tắt của "**Virtual Private Network**", dùng để mở rộng kết nối các máy tính của các công ty hay tổ chức với nhau thông qua môi trường Internet.
 
-## 2. Các công nghệ VPN
+## 2. Lợi ích của VPN
 
-- IPSec
+- Tiết kiệm chi phí hơn so với thuê đường leased-line
+- Đảm bảo an toàn thông tin với các phương pháp bảo mật
+- Dễ dàng mở rộng mô hình (Chỉ cần có Internet)
+
+## 3. Nhược điểm của VPN
+
+- Do đi qua môi trường Internet đầy 
+
+	
+
+## 4. Các công nghệ VPN
+
+- IPSec 
 - SSL
 - MPLS
 
