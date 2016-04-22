@@ -29,6 +29,6 @@
 
 <img src="http://www.skullbox.net/vpns/sitetosite.gif" />
 
-	- **Intranet-base**: Áp dụng cho công ty có nhiều chi nhánh ở xa muốn hợp nhất thành một mạng thống nhất.
-	- **Extranet-base**: Các công ty muốn làm việc chung với đối tác, hay đồng nghiệp; họ có thể xây dựng một mạng extranet để kết nối LAN với LAN cho phép chia sẻ công việc hay tài nguyên dữ liệu với nhau.
+- **Intranet-base**: Áp dụng cho công ty có nhiều chi nhánh ở xa muốn hợp nhất thành một mạng thống nhất.
+- **Extranet-base**: Các công ty muốn làm việc chung với đối tác, hay đồng nghiệp; họ có thể xây dựng một mạng extranet để kết nối LAN với LAN cho phép chia sẻ công việc hay tài nguyên dữ liệu với nhau.
 ## Còn tiếp
